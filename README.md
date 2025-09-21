@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAmrAboalazm" alt="MohamedAmrAboalazm" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **mohamedamraboalazm@gmail.com**
 
